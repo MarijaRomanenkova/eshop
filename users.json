@@ -1,0 +1,30 @@
+[
+  {
+    "email": "marija@dailyart.lt"
+  },
+  {
+    "email": "somt@smot.kf",
+    "password": "sm",
+    "id": "1c4b508b"
+  },
+  {
+    "email": "sdafks@test",
+    "password": "sm",
+    "id": "2bc959fa"
+  },
+  {
+    "email": "argnla@vgsdg",
+    "password": "sm",
+    "id": "8567e452"
+  },
+  {
+    "email": "asta@gmail.com",
+    "password": "6849a0d1bfa48f173ba52527961e1b34158d10d1a00812631e9fa0719466ba1fccd474599ed43e78e35a7d8dfff142e9ba04e6de61352168c621d98a4033f849.b3cb98b6bc9aa738",
+    "id": "a5f97c24"
+  },
+  {
+    "email": "masha@test.lt",
+    "password": "349c6211b2254a12e11fa9c58df4f0a899b2c41fdd2db0c2e20ba99e58b57601b46fff04682012f2a7163b8e8d132b90cbe0185cbf9d8684df60d9cfc6550014.d2762412268d2b72",
+    "id": "c269b24e"
+  }
+]
